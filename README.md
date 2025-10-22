@@ -10,7 +10,7 @@ To install the Gold Rush theme, run the following command:
 omarchy-theme-install https://github.com/tahayvr/omarchy-gold-rush-theme
 ```
 
-![Preview](preview.png)
+![Preview](goldrush.png)
 
 ## License
 
